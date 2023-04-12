@@ -1,4 +1,4 @@
-package com.mcheck.gateway;
+package com.mcheck.gateway.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
